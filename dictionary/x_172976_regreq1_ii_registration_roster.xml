@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Registration Roster" max_length="40" name="x_172976_regreq1_ii_registration_roster" type="collection">
+        <element label="department" max_length="32" name="u_department" reference="cmn_department" type="reference"/>
+        <element label="email" max_length="40" name="u_email" type="string"/>
+        <element label="Fname" max_length="40" name="u_fname" type="string"/>
+        <element label="Lname" max_length="40" name="u_lname" type="string"/>
+        <element display="true" label="Registration Name" max_length="32" name="u_registration_name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_department"/>
+        </index>
+        <index name="index2">
+            <element name="u_registration_name"/>
+        </index>
+    </element>
+</database>

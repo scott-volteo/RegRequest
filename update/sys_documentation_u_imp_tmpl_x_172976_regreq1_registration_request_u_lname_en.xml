@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_lname" label="Lname" language="en" table="u_imp_tmpl_x_172976_regreq1_registration_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_lname</element>
+            <help/>
+            <hint/>
+            <label>Lname</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_172976_regreq1_registration_request</name>
+            <plural>Lnames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-23 21:04:00</sys_created_on>
+            <sys_id>969cd1d74f21130015f8ff6f9310c75b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Lname</sys_name>
+            <sys_package display_value="Registration Request" source="x_172976_regreq1">63ba5d174f21130015f8ff6f9310c7a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Registration Request">63ba5d174f21130015f8ff6f9310c7a9</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_172976_regreq1_registration_request_u_lname_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-23 21:04:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Registration Request" max_length="40" name="x_172976_regreq1_registration_request" type="collection">
+        <element label="Registration Name" max_length="32" name="registration_name" reference="x_172976_regreq1_ii_registration_roster" type="reference"/>
+        <element label="Sent count" max_length="40" name="sent_count" read_only="true" type="integer"/>
+    </element>
+</database>

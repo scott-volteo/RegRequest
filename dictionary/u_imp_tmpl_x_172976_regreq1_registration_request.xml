@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 172976 Regreq1 Registration Request" max_length="40" name="u_imp_tmpl_x_172976_regreq1_registration_request" type="collection">
+        <element attributes="import_attribute_name=department,edge_encryption_enabled=true" label="department" max_length="40" name="u_department" type="string"/>
+        <element attributes="import_attribute_name=email,edge_encryption_enabled=true" label="email" max_length="40" name="u_email" type="string"/>
+        <element attributes="import_attribute_name=Fname,edge_encryption_enabled=true" label="Fname" max_length="40" name="u_fname" type="string"/>
+        <element attributes="import_attribute_name=Lname,edge_encryption_enabled=true" label="Lname" max_length="40" name="u_lname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Registration Name" max_length="40" name="u_registration_name" type="string"/>
+    </element>
+</database>
